@@ -31,7 +31,7 @@ However, you can only use this feature with permission and you must state the re
 ## System Requirements
 * OS: Windows 7 / 8 / 10 / 11 (Optimized for low-end PCs).
 * RAM: 2GB minimum (Works great on 4GB+).
-* Storage: ~3GB (Including the tools and games).
+* Storage: ~6GB (Including the tools and games).
 ## Support the Project
 If you like Xenon, don't forget to give a ⭐ on GitHub! It helps me stay motivated to add more features.
 ### Credits
