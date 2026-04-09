@@ -1,4 +1,4 @@
-# Xenon
+# Xenon [ PROJECT DISAPLED ]
 This terminal doesn't just have coding inside; there are surprises for trying it out.  People Playground is a surprise as a game.  And many more things!
 ## Permissions
 You cannot copy this terminal without permission and present it as your own, otherwise you will be added to the blacklist.
